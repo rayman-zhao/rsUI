@@ -1,2 +1,2 @@
-# SRFramework
-desktop GUI framework for professional application
+# rsUI
+An desktop GUI helper for professional application.
